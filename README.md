@@ -131,6 +131,13 @@ GRIBLITE is my attempt to implement that decoding process from the ground up, bu
 - **CMake** — Build system
 - **GoogleTest** — Unit testing
 
+## License
+
+GRIBLITE is licensed under the Apache License, Version 2.0.
+See the [LICENSE](LICENSE) file for details.
+
+Copyright 2026 ElementProgram5.
+
 ## Author
 
 **ElementProgram5**
