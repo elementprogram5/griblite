@@ -1,0 +1,34 @@
+# IDE
+.vscode/
+.idea/
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.o
+*.obj
+
+# Test output
+Testing/
+
+# Generated GRIB files in project root
+/*.grb
+/*.grib
+
+# Generated reference output
+/storm_mercator_reference.txt
