@@ -1,6 +1,6 @@
 # GRIBLITE
 
-**GRIBLITE** is an independently developed C++20 library for decoding GRIB (GRIdded Binary) meteorological data files, with a particular focus on native Windows compatibility.
+**GRIBLITE** is a C++20 library for decoding GRIB (GRIdded Binary) meteorological data files, with a particular focus on native Windows compatibility.
 
 The project was created to provide a way to work with GRIB data directly from C++ applications on Windows, without depending on established GRIB decoding libraries like ECCODES that may require additional environments or compatibility workarounds.
 
